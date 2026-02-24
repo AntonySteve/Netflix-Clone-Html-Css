@@ -67,13 +67,17 @@ This project recreates the front page of Netflix to practice:
 ---
 
 ## 📸 Screenshots
+<img width="1882" height="918" alt="image" src="https://github.com/user-attachments/assets/acccb27f-efb5-4a8d-bff0-f8265c8ff55e" />
+<img width="1880" height="923" alt="image" src="https://github.com/user-attachments/assets/d9ca25ad-0aba-44f6-8427-ebc6fe06bec0" />
+<img width="1879" height="917" alt="image" src="https://github.com/user-attachments/assets/62aa64da-e828-472f-b393-4c3f765702b0" />
+<img width="1876" height="879" alt="image" src="https://github.com/user-attachments/assets/a4c52766-8955-4ff4-943a-3b8a1f66d90b" />
+<img width="1876" height="911" alt="image" src="https://github.com/user-attachments/assets/0f1e0e0b-b189-45f7-bbc0-ab577db6108d" />
 
-(Add screenshots here)
 
 ---
 
 ## 📎 Live Demo
-
+https://antonysteve.github.io/Netflix-Clone-Html-Css/
 
 ---
 
